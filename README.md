@@ -14,6 +14,7 @@ Click on each badge to see the full certificate and more details.
 </a>
 
 <br/>
+<br/>
 
 <a href="./generative-ai-professional/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./generative-ai-professional/generative-ai-professional-badge.png" style="max-width:150px; height:auto;" alt="Generative AI Badge"/>
@@ -22,6 +23,7 @@ Click on each badge to see the full certificate and more details.
 </a>
 
 <br/>
+<br/>
 
 <a href="./ai-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./ai-foundations-associate/AI-foundations-associate-badge.png" style="max-width:150px; height:auto;" alt="AI Foundations Badge"/>
@@ -29,6 +31,7 @@ Click on each badge to see the full certificate and more details.
   <strong>AI Foundations Associate</strong>
 </a>
 
+<br/>
 <br/>
 
 <a href="./oci-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
