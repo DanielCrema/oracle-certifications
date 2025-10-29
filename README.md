@@ -13,11 +13,15 @@ Click on each badge to see the full certificate and more details.
   <strong>Data Science Professional</strong>
 </a>
 
+<br/>
+
 <a href="./generative-ai-professional/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./generative-ai-professional/generative-ai-professional-badge.png" style="max-width:150px; height:auto;" alt="Generative AI Badge"/>
   <br/>
   <strong>Generative AI Professional</strong>
 </a>
+
+<br/>
 
 <a href="./ai-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./ai-foundations-associate/AI-foundations-associate-badge.png" style="max-width:150px; height:auto;" alt="AI Foundations Badge"/>
@@ -25,11 +29,15 @@ Click on each badge to see the full certificate and more details.
   <strong>AI Foundations Associate</strong>
 </a>
 
+<br/>
+
 <a href="./oci-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./oci-foundations-associate/OCI-foundations-associate-badge.png" style="max-width:150px; height:auto;" alt="OCI Foundations Badge"/>
   <br/>
   <strong>OCI 2025 Foundations Associate</strong>
 </a>
+
+<br/>
 
 <a href="./fusion-ai-agent-studio-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./fusion-ai-agent-studio-foundations-associate/fusion-ai-agent-studio-foundations-associate-badge.png" style="max-width:150px; height:auto;" alt="Fusion AI Agent Studio Badge"/>
