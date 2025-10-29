@@ -24,7 +24,6 @@ This folder contains the **official certificate** and **digital badge** issued b
 
 ---
 
-<br/>
 <img src="../assets/icon-flag-br.svg" width="35"/>
 
 Esta pasta contém o **certificado oficial** e a **badge digital** emitidos pela [**Oracle**](https://www.oracle.com/).  
@@ -32,7 +31,6 @@ Esta pasta contém o **certificado oficial** e a **badge digital** emitidos pela
 
 ---
 
-<br/>
 <img src="../assets/icon-flag-es.svg" width="35"/>
 
 Esta carpeta contiene el **certificado oficial** y la **insignia digital** emitidos por [**Oracle**](https://www.oracle.com/).  
