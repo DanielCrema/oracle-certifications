@@ -7,55 +7,38 @@ Click on each badge to see the full certificate and more details.
 
 <div align="center">
 
-<table align="center">
-<tr>
-    <!-- Data Science Professional -->
-    <td align="center">
-        <a href="./data-science-professional/README.md">
-            <img src="./data-science-professional/data-science-professional-badge.png" width="300" alt="Data Science Badge"/>
-        </a>
-        <br/>
-        <strong>Data Science Professional</strong>
-    </td>
+<a href="./data-science-professional/README.md" style="display:inline-block; margin:10px; text-align:center;">
+  <img src="./data-science-professional/data-science-professional-badge.png" style="max-width:200px; height:auto;" alt="Data Science Badge"/>
+  <br/>
+  <strong>Data Science Professional</strong>
+</a>
 
-<td align="center">
-        <a href="./generative-ai-professional/README.md">
-            <img src="./generative-ai-professional/generative-ai-professional-badge.png" width="300" alt="Generative AI Badge"/>
-        </a>
-        <br/>
-        <strong>Generative AI Professional</strong>
-    </td>
-    
-<table align="center">
+<a href="./generative-ai-professional/README.md" style="display:inline-block; margin:10px; text-align:center;">
+  <img src="./generative-ai-professional/generative-ai-professional-badge.png" style="max-width:200px; height:auto;" alt="Generative AI Badge"/>
+  <br/>
+  <strong>Generative AI Professional</strong>
+</a>
 
-<td align="center">
-        <a href="./ai-foundations-associate/README.md">
-            <img src="./ai-foundations-associate/AI-foundations-associate-badge.png" width="300" alt="AI Foundations Badge"/>
-        </a>
-        <br/>
-        <strong>AI Foundations Associate</strong>
-    </td>
+<a href="./ai-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
+  <img src="./ai-foundations-associate/AI-foundations-associate-badge.png" style="max-width:200px; height:auto;" alt="AI Foundations Badge"/>
+  <br/>
+  <strong>AI Foundations Associate</strong>
+</a>
 
-<td align="center">
-        <a href="./oci-foundations-associate/README.md">
-            <img src="./oci-foundations-associate/OCI-foundations-associate-badge.png" width="300" alt="OCI Foundations Badge"/>
-        </a>
-        <br/>
-        <strong>OCI 2025 Foundations Associate</strong>
-    </td>
+<a href="./oci-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
+  <img src="./oci-foundations-associate/OCI-foundations-associate-badge.png" style="max-width:200px; height:auto;" alt="OCI Foundations Badge"/>
+  <br/>
+  <strong>OCI 2025 Foundations Associate</strong>
+</a>
 
-<td align="center">
-        <a href="./fusion-ai-agent-studio-foundations-associate/README.md">
-            <img src="./fusion-ai-agent-studio-foundations-associate/fusion-ai-agent-studio-foundations-associate-badge.png" width="300" alt="Fusion AI Agent Studio Badge"/>
-        </a>
-        <br/>
-        <strong>AI Agent Foundations Associate</strong>
-    </td>
-</tr>
-</table>
-</table>
+<a href="./fusion-ai-agent-studio-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
+  <img src="./fusion-ai-agent-studio-foundations-associate/fusion-ai-agent-studio-foundations-associate-badge.png" style="max-width:200px; height:auto;" alt="Fusion AI Agent Studio Badge"/>
+  <br/>
+  <strong>AI Agent Foundations Associate</strong>
+</a>
 
 </div>
+
 
 ## Notes
 
