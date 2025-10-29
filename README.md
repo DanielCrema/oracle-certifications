@@ -41,6 +41,7 @@ Click on each badge to see the full certificate and more details.
 </a>
 
 <br/>
+<br/>
 
 <a href="./fusion-ai-agent-studio-foundations-associate/README.md" style="display:inline-block; margin:10px; text-align:center;">
   <img src="./fusion-ai-agent-studio-foundations-associate/fusion-ai-agent-studio-foundations-associate-badge.png" style="max-width:20%; min-width:100px; height:auto;" alt="Fusion AI Agent Studio Badge"/>
