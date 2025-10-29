@@ -1,10 +1,10 @@
-# Oracle Cloud Infrastructure 2025 Certified Foundations Associate 🎓
+# Oracle Fusion AI Agent Studio Certified Foundations Associate 🎓
 
 <br/>
 
 <div align="center">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3186D02949684AC598A19933D648D450B598683AF31F3875923C07F2C746FECF">
-    <img src="./OCI-foundations-badge.png"/>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3396BADFFF1F55CCC7CCC64048698F36E6D0A863D650FC21321F7DA932256D36">
+    <img src="./fusion-ai-agent-studio-foundations-associate-badge.png"/>
   </a>
 </div>
 
@@ -41,8 +41,8 @@ Esta carpeta contiene el **certificado oficial** y la **insignia digital** emiti
 ## Certificate
 
 <div align="center">
-    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7233085&trackId=OCI25FNDCFA&key=0f7d56f0806c33d5cfd24a133de4c0ae23ea10ca">
-        <img src="./OCI-foundations-certificate.png"/>
+    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7233085&trackId=OFAASOFA&key=342405b69b0cc24bf4226a94137d1055463c2a35">
+        <img src="./fusion-ai-agent-studio-foundations-associate-certificate.png"/>
     </a>
 </div>
 
