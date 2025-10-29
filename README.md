@@ -12,7 +12,7 @@ Click on each badge to see the full certificate and more details.
     <!-- Data Science Professional -->
     <td align="center">
         <a href="./data-science-professional/README.md">
-            <img src="./data-science-professional/Data-science-professional-badge.png" width="300" alt="Data Science Badge"/>
+            <img src="./data-science-professional/data-science-professional-badge.png" width="300" alt="Data Science Badge"/>
         </a>
         <br/>
         <strong>Data Science Professional</strong>
@@ -20,7 +20,7 @@ Click on each badge to see the full certificate and more details.
 
 <td align="center">
         <a href="./generative-ai-professional/README.md">
-            <img src="./generative-ai-professional/Generative-AI-Professional-badge.png" width="300" alt="Generative AI Badge"/>
+            <img src="./generative-ai-professional/generative-AI-Professional-badge.png" width="300" alt="Generative AI Badge"/>
         </a>
         <br/>
         <strong>Generative AI Professional</strong>
