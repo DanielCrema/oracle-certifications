@@ -1,10 +1,10 @@
-# Oracle Cloud Infrastructure 2025 Certified Foundations Associate 🎓
+# Oracle Cloud Infrastructure 2025 Certified Generative AI Professional 🎓
 
 <br/>
 
 <div align="center">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3186D02949684AC598A19933D648D450B598683AF31F3875923C07F2C746FECF">
-    <img src="./OCI-foundations-badge.png"/>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E8B22361ECAD15ABF5A929E28730DFEFF10CDD6D69764345A1937286EEA3250E">
+    <img src="./generative-ai-professional-badge.png"/>
   </a>
 </div>
 
@@ -41,8 +41,8 @@ Esta carpeta contiene el **certificado oficial** y la **insignia digital** emiti
 ## Certificate
 
 <div align="center">
-    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7233085&trackId=OCI25FNDCFA&key=0f7d56f0806c33d5cfd24a133de4c0ae23ea10ca">
-        <img src="./OCI-foundations-certificate.png"/>
+    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC7233085&trackId=OCI25GAIOCP&key=a7c5938330d6e445a78727c6dbfc1edab0073206">
+        <img src="./generative-ai-professional-certificate.png"/>
     </a>
 </div>
 
