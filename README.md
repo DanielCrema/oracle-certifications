@@ -1,7 +1,7 @@
 # 🎓 My Oracle Certification Portfolio
 
 Welcome! This repository contains my [**Oracle**](https://www.oracle.com/) **certifications** from 2025, including badges and official certificates.  
-Click on each badge to see the full certificate and more details.
+*Click on each badge to see the full certificate and more details.*
 
 ## Certifications Summary
 
