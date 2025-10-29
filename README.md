@@ -20,7 +20,7 @@ Click on each badge to see the full certificate and more details.
 
 <td align="center">
         <a href="./generative-ai-professional/README.md">
-            <img src="./generative-ai-professional/generative-AI-Professional-badge.png" width="300" alt="Generative AI Badge"/>
+            <img src="./generative-ai-professional/generative-ai-Professional-badge.png" width="300" alt="Generative AI Badge"/>
         </a>
         <br/>
         <strong>Generative AI Professional</strong>
